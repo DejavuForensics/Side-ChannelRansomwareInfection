@@ -42,7 +42,10 @@ Exibição do status e as configurações atuais da interface para confirmar as 
 ip addr show eth0
 ```
 
-## Configura o IP nas máquinas que serão infectadas
+## Configuração dos IP nas máquinas da Intranet que serão infectadas
+
+
+
 
 ## Ativar o Switch 
 
