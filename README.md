@@ -5,6 +5,10 @@ Side-Channel Ransomware Infection
 
 
 # PT-BR:
+## Infecção Lateral por Ransomware
+ 
+O ransomware se consolidou como a principal ameaça no cenário de malwares (malicioso + softwares). Trata-se de um programa maliciosas capaz de se propagar por redes internas (intranets) com surpreendente facilidade e pouco esforço operacional. Sua atuação representa um grave risco à segurança da informação, pois tem o poder de extorquir vítimas e paralisar serviços essenciais, afetando desde agências governamentais até grandes corporações. Em regra geral, o modus operandi desse tipo de ataque consiste em criptografar os dados da vítima, tornando-os inacessíveis, e, na sequência, exigir o pagamento de um resgate em moedas digitais, como Bitcoin ou Monero, em troca da suposta restauração das informações comprometidas.
+
 ### Siga as instruções
 No terminal, siga as seguinte etapas no Sniffer (Kali Linux).
 
